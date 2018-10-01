@@ -1,0 +1,29 @@
+.red {
+  background: red;
+  color: white;
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.yellow {
+  background: yellow;
+  color: black;
+  margin-bottom: 20px;
+  font-size: 40px;
+}
+
+.green {
+  background: green;
+  color: white;
+  margin-bottom: 20px;
+  font-size: 35px;
+}
+
+.blue {
+  background: goldenrod;
+  color: white;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+/*# sourceMappingURL=index.css.map */
