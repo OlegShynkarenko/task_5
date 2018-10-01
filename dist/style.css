@@ -1,0 +1,37 @@
+.main {
+  width: 70%;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.red {
+  background: red;
+  color: white;
+  font-size: 40px;
+  margin-bottom: 20px;
+  word-spacing: 7px;
+  letter-spacing: 3px;
+}
+
+.yellow {
+  background: yellow;
+  color: black;
+  margin-bottom: 20px;
+  font-size: 35px;
+}
+
+.green {
+  background: green;
+  color: white;
+  margin-bottom: 20px;
+  font-size: 35px;
+}
+
+.blue {
+  background: blue;
+  color: white;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+/*# sourceMappingURL=style.css.map*/
